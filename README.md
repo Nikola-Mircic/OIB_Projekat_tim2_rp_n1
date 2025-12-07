@@ -30,17 +30,17 @@ OIB Projekat - Tim 2 - Redovan projekat + nadogradnja I
 - ### Gateway-api
   > Ova osoba omogućava da ostalih 5 mogu odmah da rade bez razmišljanja o mrežnim
   > problemima. Treba voditi računa o imenima metoda u ostalim mikroserivisa
-  - [ ] /auth/* → Auth Service (ima u template započeto samo dopuniti)
-  - [ ] /users/* → User Service (ima u template započeto samo dopuniti)
-  - [ ] /production/* → Production Service
-  - [ ] /processing/* → Processing Service
-  - [ ] /packaging/* → Packaging Service
-  - [ ] /storage/* → Storage Service
-  - [ ] /sales/* → Sales Service
-  - [ ] /analytics/* → Analytics Service
-  - [ ] /performance/* → Performance Analysis Service
-  - [ ] /audit/* → Audit Log Service
-  - [ ] .env + CORS konfiguracija za sve mikroserive (app.ts, .env)
+  - [ x ] /auth/* → Auth Service (ima u template započeto samo dopuniti)
+  - [ x ] /users/* → User Service (ima u template započeto samo dopuniti)
+  - [ x ] /production/* → Production Service
+  - [ x ] /processing/* → Processing Service
+  - [ x ] /packaging/* → Packaging Service
+  - [ x ] /storage/* → Storage Service
+  - [ x ] /sales/* → Sales Service
+  - [ x ] /analytics/* → Analytics Service
+  - [ x ] /performance/* → Performance Analysis Service
+  - [ x ] /audit/* → Audit Log Service
+  - [ x ] .env + CORS konfiguracija za sve mikroserive (app.ts, .env)
 
 <br><hr>
 

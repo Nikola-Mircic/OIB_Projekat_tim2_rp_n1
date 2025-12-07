@@ -1,5 +1,5 @@
 {
-  "name": "microservice-auth",
+  "name": "microservice-gateway-api",
   "version": "1.2.0",
   "main": "src/index.ts",
   "scripts": {

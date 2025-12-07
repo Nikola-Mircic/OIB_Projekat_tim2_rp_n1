@@ -1,0 +1,1 @@
+﻿//getAuditLogs(): Promise<AuditLogDTO[]>;
